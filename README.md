@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# MeegBuy
+# MeetBuy
 
 MeetBuy is a cross platform mobile application to help people meet online to buy secondhand items in a transparent way.
 

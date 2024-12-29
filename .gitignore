@@ -1,6 +1,20 @@
 # React Native specific
 node_modules/
 
+npm-debug.log
+yarn-error.log
+
+# Android/IntelliJ
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+*.keystore
+!debug.keystore
+
 # Build artifacts
 android/build/
 ios/build/
@@ -9,8 +23,12 @@ ios/.symlinks/
 ios/Podfile.lock
 android/.gradle/
 android/app/build/
+android/app/.cxx/
 android/gradle/
 android/gradle-wrapper.jar
+
+# Ruby / CocoaPods
+/vendor/bundle/
 
 # OS generated files
 .DS_Store
@@ -19,6 +37,8 @@ android/gradle-wrapper.jar
 index.android.bundle
 index.ios.bundle
 
+# Bundle artifact
+*.jsbundle
+
 # IDE or editor specific files
 .vscode/
-.idea/
