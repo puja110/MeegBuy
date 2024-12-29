@@ -1,0 +1,24 @@
+# React Native specific
+node_modules/
+
+# Build artifacts
+android/build/
+ios/build/
+ios/Pods/
+ios/.symlinks/
+ios/Podfile.lock
+android/.gradle/
+android/app/build/
+android/gradle/
+android/gradle-wrapper.jar
+
+# OS generated files
+.DS_Store
+
+# Bundling files
+index.android.bundle
+index.ios.bundle
+
+# IDE or editor specific files
+.vscode/
+.idea/

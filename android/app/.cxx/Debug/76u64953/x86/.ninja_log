@@ -1,0 +1,10 @@
+# ninja log v5
+0	1673	1735505584443770521	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f870d2f9b5a6472d
+0	1441	1735505584216263075	CMakeFiles/appmodules.dir/Users/pujashrestha/me/Interview_Practice/RN/MeetBuy/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	68197e5591db0c7c
+1673	1773	1735505584550622426	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/build/intermediates/cxx/Debug/76u64953/obj/x86/libappmodules.so	b3395d07da1fdc32
+0	17	0	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/.cxx/Debug/76u64953/x86/CMakeFiles/cmake.verify_globs	1595bb27a1819b9
+17	72	1735506027956409130	build.ninja	33bb04d041746502
+0	19	0	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/.cxx/Debug/76u64953/x86/CMakeFiles/cmake.verify_globs	1595bb27a1819b9
+3	1497	1735506029477134754	CMakeFiles/appmodules.dir/Users/pujashrestha/me/Interview_Practice/RN/MeetBuy/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	68197e5591db0c7c
+3	1727	1735506029705211370	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f870d2f9b5a6472d
+1727	1813	1735506029797941386	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/build/intermediates/cxx/Debug/76u64953/obj/x86/libappmodules.so	b3395d07da1fdc32

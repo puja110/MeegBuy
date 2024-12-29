@@ -1,0 +1,10 @@
+# ninja log v5
+1789	1953	1735505578125394650	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/build/intermediates/cxx/Debug/76u64953/obj/arm64-v8a/libappmodules.so	7be686ca42b9d0e3
+0	1540	1735505577699749545	CMakeFiles/appmodules.dir/Users/pujashrestha/me/Interview_Practice/RN/MeetBuy/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	2f8702d5089b251e
+0	1789	1735505577956892820	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9426ecfd16bb7ef2
+1	39	0	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/.cxx/Debug/76u64953/arm64-v8a/CMakeFiles/cmake.verify_globs	e56246ed4b8bd0e6
+39	106	1735506023795591822	build.ninja	7ecee6f495390b7c
+0	16	0	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/.cxx/Debug/76u64953/arm64-v8a/CMakeFiles/cmake.verify_globs	e56246ed4b8bd0e6
+3	1812	1735506025623952069	CMakeFiles/appmodules.dir/Users/pujashrestha/me/Interview_Practice/RN/MeetBuy/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	2f8702d5089b251e
+3	2086	1735506025900950481	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9426ecfd16bb7ef2
+2087	2249	1735506026067795841	/Users/pujashrestha/me/Interview Practice/RN/MeetBuy/android/app/build/intermediates/cxx/Debug/76u64953/obj/arm64-v8a/libappmodules.so	7be686ca42b9d0e3
