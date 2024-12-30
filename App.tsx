@@ -6,7 +6,7 @@ function App() {
   return (
     <SafeAreaView>
       <View>
-        <Text>Hello World !</Text>
+        <Text>Hello MeetBuy !</Text>
       </View>
     </SafeAreaView>
   );
